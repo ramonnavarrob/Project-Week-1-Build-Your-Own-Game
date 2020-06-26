@@ -37,6 +37,6 @@ Include links to your repository, slides and kanban board. Feel free to include 
 https://docs.google.com/presentation/d/1Kdb_pVXv5sN-9FlQcZM0Ev_5e2fCH_7VAX46KJH68uw/edit#slide=id.g8ac3e4415b_0_27
 
 
-[Repository](https://github.com/)  
+[Repository](https://github.com/ramonnavarrob/Project-Week-1-Build-Your-Own-Game)  
 [Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Trello](https://trello.com/b/eyVp3o7T/project-1-tic-tac-toe)  
